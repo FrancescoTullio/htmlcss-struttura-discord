@@ -12,6 +12,10 @@ max-width: 1100px;
 margin: 0 auto;
 }
 
+body{
+    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 .background-violet{
     background-color: blueviolet;
 }
